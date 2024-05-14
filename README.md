@@ -1,0 +1,1 @@
+V tomto repozitári sa nachádzaju zdrojove kódy ktore pozostávajú zo skriptu pre extrakciu eeg signálov a jednoduchého dashboardu vytvoreného v Reacte.Tento repozitár slúži ako príloha k Bakalarskej práci na tému  Návrh databázy pre evidenciu a spracovanie EEG signálov.
